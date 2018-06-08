@@ -84,7 +84,7 @@ while gameLoop:
                 moveY=0
 
     window.fill(white) 
-
+    print("blahblahblahblah")
     # box1 moves
     box1X+=moveX
     box1Y+=moveY
